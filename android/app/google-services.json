@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553511067294",
+    "project_id": "shop-easy-cc602",
+    "storage_bucket": "shop-easy-cc602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553511067294:android:8b3377d759257292d1258f",
+        "android_client_info": {
+          "package_name": "com.example.shop_easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553511067294-bo24f57bm8h9j229i2o3s28irr0o2q0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB74_2NCdMz_Z4qH_GfO0LVY7p2FQbIVK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553511067294-bo24f57bm8h9j229i2o3s28irr0o2q0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
